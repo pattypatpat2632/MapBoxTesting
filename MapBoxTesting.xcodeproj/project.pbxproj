@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					EC03FB771F730979001FE716 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 992D98C4QP;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 992D98C4QP;
 				INFOPLIST_FILE = MapBoxTesting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SweetPea.MapBoxTesting;
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 992D98C4QP;
 				INFOPLIST_FILE = MapBoxTesting/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = SweetPea.MapBoxTesting;
